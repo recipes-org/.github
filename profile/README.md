@@ -1,3 +1,3 @@
-# `recipes`
+# CoLunch
 
-Welcome to the `recipes` project.
+Welcome to the `colunch.app` project.
